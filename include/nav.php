@@ -42,7 +42,7 @@
                 </li> 
                 <li><a class="navClose" href="tramites.php"><i class="fa fa-paper-plane-o" aria-hidden="true"></i><span> Mis Trámites</span></a></li>
                 <li><a class="navClose" href="documentos.php"><i class="fa fa-list-alt" aria-hidden="true"></i><span> Mis Documentos</span></a></li>
-                <li><a class="navClose" href="logout.asp"><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
+                <li><a class="navClose" href="login.php"><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
 
               </ul>
             </div>

@@ -11,12 +11,12 @@
                     <div class="col-sm-6 text-center">
                     	<p class="h3 text-center">Nuevos Documentos<br>
                     	<span class="h1 text-success">5</span></p>
-                        <a href="documentos.php" class="btn btn-primary btn-md">Nuevo Documento</a>
+                        <a href="documentos.php" class="btn btn-primary btn-md">Ver Documentos</a>
                     </div>
                     <div class="col-sm-6 text-center">
                         <p class="h3 text-center">Nuevos Tramites<br>
                         <span class="h1 text-success">16</span></p>
-                        <a href="tramites.php" class="btn btn-primary btn-md">Nuevo Trámite</a>
+                        <a href="tramites.php" class="btn btn-primary btn-md">Ver Trámites</a>
                     </div>
                 </div>
                 <div class="clearfix"></div>
