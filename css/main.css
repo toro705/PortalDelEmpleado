@@ -778,10 +778,10 @@ td .ui-state-hover {
 	position: relative;
 }	
 .filtros__filtros {
-	width: 100%;
+	width: auto;
 	display: inline-block; 
-/*	margin-left: 10px;
-*/}
+	margin-left: 10px;
+}
 .filtros__filtros p {
 	display: inline-block;
 	margin: 0;
